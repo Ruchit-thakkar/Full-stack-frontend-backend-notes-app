@@ -1,7 +1,5 @@
 # 📝 Notely - Modern Full-Stack Notes App
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![MERN Stack](https://img.shields.io/badge/MERN-Stack-success)
-
 > A sleek, productivity-focused note-taking application built with the MERN stack (MongoDB, Express, React, Node.js). Features a unique "Tactile Modern" UI, dark mode support, and seamless real-time updates.
 
 *(Replace this link with a screenshot of your actual app!)*
