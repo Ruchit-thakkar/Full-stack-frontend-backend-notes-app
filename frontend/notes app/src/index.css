@@ -1,0 +1,37 @@
+/* Dark theme base */
+body {
+  background-color: #000;
+  color: #fff;
+}
+@import "tailwindcss";
+
+:root {
+  /* LIGHT MODE COLORS */
+  --bg-main: #f9fafb; /* Light Gray Background */
+  --bg-card: #ffffff; /* White Card */
+  --bg-modal: #ffffff; /* White Modal */
+  --text-main: #111827; /* Dark Text */
+  --text-muted: #6b7280; /* Gray Text */
+  --border-color: #e5e7eb; /* Light Border */
+  --shadow-color: #e5e7eb; /* Light Shadow */
+}
+
+.dark {
+  /* DARK MODE COLORS */
+  --bg-main: #0f172a; /* Dark Navy Background */
+  --bg-card: #1e293b; /* Slate 800 Card */
+  --bg-modal: #1e293b; /* Slate 800 Modal */
+  --text-main: #f9fafb; /* White Text */
+  --text-muted: #94a3b8; /* Muted Slate Text */
+  --border-color: #334155; /* Slate 700 Border */
+  --shadow-color: #020617; /* Black Shadow */
+}
+
+/* Apply smooth transitions */
+body {
+  background-color: var(--bg-main);
+  color: var(--text-main);
+  transition:
+    background-color 0.3s,
+    color 0.3s;
+}
