@@ -4,7 +4,6 @@
 
 > A sleek, productivity-focused note-taking application built with the MERN stack (MongoDB, Express, React, Node.js). Features a unique "Tactile Modern" UI, dark mode support, and seamless real-time updates.
 
-![App Screenshot](https://via.placeholder.com/1200x600.png?text=Add+Your+Screenshot+Here)
 *(Replace this link with a screenshot of your actual app!)*
 
 ## 🚀 Features
